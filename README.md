@@ -1,5 +1,6 @@
-### Work in progress
-
+### Pycodehasher
+    Hashing of function & classes to ensure data integrity (work in progress)
+    
 <br></br>
   
 <i>Current Hash:</i>
