@@ -1,0 +1,8 @@
+id data_type 	format
+1  class 	(1, classname, filename, hash, loc)
+2  class.fn 	(2, classname, function name, hash, loc)
+3  fn 		(3, function name, filename, hash, loc)
+4  file		(4, filename, data hash, loc)
+
+
+  summary      (# of classes, #of class fn, # of fn) ## We do not store in file, it's printed during generation
