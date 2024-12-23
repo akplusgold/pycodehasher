@@ -1,5 +1,5 @@
-+ This is a work in progress, needs more thorough testing
-
++ This is a work in progress
+  
 Current Hash:
 
 '''
